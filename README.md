@@ -6,7 +6,7 @@ Understand how satisfaction levels vary across disciplines and tasks
 
 Use statistical tests like ANOVA and Tukey HSD to verify if the differences are meaningful
 
-Build a predictive model to estimate whether a student will use the AI again, based on their session behavior
+
 
 Dataset
 File: ai_assistant_usage_student_life.csv
